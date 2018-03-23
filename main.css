@@ -1,0 +1,127 @@
+
+code {
+  background: #d999e2;
+  color: #000000;
+  font: 14px/24px "Source Code Pro", Inconsolata, "Lucida Console", Terminal, "Courier New", Courier;
+  display: inline-block;
+  margin: 0 14px;
+  text-align: center;
+}
+
+a {
+  background: #d999e2;
+  color: #000000;
+  font: 14px/24px "Source Code Pro", Inconsolata, "Lucida Console", Terminal, "Courier New", Courier;
+  display: inline-block;
+  margin: 0 14px;
+  text-align: center;
+}
+.border-eat {
+    width: 145px;
+    height: 25px;
+    padding: 20px;
+    border: 10px double yellowgreen;
+}
+.border-about {
+    width: 75px;
+    height: 25px;
+    padding: 20px;
+    border: 10px double yellowgreen;
+}
+.border-menu {
+    width: 75px;
+    height: 25px;
+    padding: 20px;
+    border: 10px double yellowgreen;
+}
+.border-daily_specials {
+    width: 125px;
+    height: 25px;
+    padding: 20px;
+    border: 10px double yellowgreen;
+}
+
+.big_box{
+    width: 696px;
+    height: 250px;
+    padding: 20px;
+    margin-top: 50px;
+    background: #9a9a9a;
+    border: 10px double #000000;
+}
+
+.about_header{
+    margin-left: 300px;
+}
+
+.about_header_2{
+    margin-left: 200px;
+}
+
+.daily_specials_header{
+    margin-left: 325px;
+}
+
+.menu_header{
+    margin-left: 375px;
+}
+
+.menu_header_2{
+    margin-left: 175px;
+}
+.box1{
+    width: 150px;
+    height: 150px;
+    padding: 20px;
+    margin-top: 25px;
+    margin-left: 50px;
+    background: #9a9a9a;
+    border: 10px double #000000;
+}
+
+.box2{
+    width: 150px;
+    height: 150px;
+    padding: 20px;
+    margin-top: 25px;
+    background: #9a9a9a;
+    border: 10px double #000000;
+}
+
+.box3{
+    width: 150px;
+    height: 150px;
+    padding: 20px;
+    margin-top: 25px;
+    background: #9a9a9a;
+    border: 10px double #000000;
+}
+.about_text{
+    margin-left: 50px;
+}
+
+.daily_special{
+    width: 300px;
+    height: 50px;
+    padding: 20px;
+    display: contents;
+    border: 10px double yellowgreen;
+}
+.special_box{
+    width: 300px;
+    height: 150px;
+    padding: 20px;
+    display: contents;
+    margin-top: 25px;
+    background: #9a9a9a;
+    border: 10px double #000000;
+}
+
+.entree{
+    width: 300px;
+    height: 50px;
+    padding: 20px;
+    display: contents;
+    margin-bottom: 25px;
+    border: 10px double yellowgreen;
+}
